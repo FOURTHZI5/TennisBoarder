@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TennisScoreKeeper</string>
+    <string name="zero">0</string>
+    <string name="first_player">Roger Federer</string>
+    <string name="second_player">Rafael Nadal</string>
+    <string name="add_point_button">+Point</string>
+    <string name="restart">New Match!</string>
+</resources>
